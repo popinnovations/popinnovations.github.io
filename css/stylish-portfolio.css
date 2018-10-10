@@ -18,9 +18,11 @@ body {
 
 .text-vertical-center {
     display: table-cell;
-    text-align: center;
-    vertical-align: middle;
+    text-align: right;
+    vertical-align: bottom;
+    color: white;
 }
+
 
 .text-vertical-center h1 {
     margin: 0;
